@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+[![alt text][1.1]][1]
+[![alt text][6.1]][6]
+
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+
+[1]: https://twitter.com/LkoDevs?t=WavbI6IEzSOWQpTQUcpBCA&s=31
+[6]: http://www.github.com/lkodevs
+
+
+
 #### What we are?
 
 Lucknow's Developers (LKODevs) is a community for developers in Lucknow. We aim to bring together and initiate collaboration among a network of people interested in software development, UX/UI designing, product designing, cloud and open-source technologies.
